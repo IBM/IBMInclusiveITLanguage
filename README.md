@@ -33,5 +33,6 @@ The initial scope of this initiative is to address IT terminology that promotes 
 
 <a name="out"></a>
 
+## **What terms is IBM replacing?**
 
 
