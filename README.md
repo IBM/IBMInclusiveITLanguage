@@ -1,10 +1,10 @@
 # IBMInclusiveITLanguage
-IBM’s contribution to Open Source and other   to make it language more inclusive
+IBM’s contribution to Open Source and other Industry efforts to make IT language more inclusive
 
-Open Sentencing Solution Starter
-Table of Contents
-What is Open Sentencing?
-How Tech Can Help
+## **Table of Contents**ts
+What IT Scope does this initiative cover?
+What Terms is IBM Replacing?
+What are your primary focus areas for inclusive language?
 Idea/Solution
 Users and Skills
 Browser Support
