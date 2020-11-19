@@ -4,7 +4,7 @@ IBM’s contribution to Open Source and other Industry efforts to make IT langua
 ## **Table of Contents**
 
   - [**Table of Contents**](#table-of-contents)  
-  - [**What IT scope does this initiative cover**]
+  - [**What IT scope does this initiative cover**][#IT-includes-and-excludes-what]
   - [**What Terms is IBM replacing**]
   - [**What areas are you focusing on for inclusion**](#types-of-discriminatory-terms)
  - [**Users and Skills**](#users-and-skills)
