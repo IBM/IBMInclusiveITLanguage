@@ -1,7 +1,7 @@
 # IBMInclusiveITLanguage
 IBM’s contribution to Open Source and other Industry efforts to make IT language more inclusive
 
-## **Table of Contents**ts
+## **Table of Contents**
 What IT Scope does this initiative cover?
 What Terms is IBM Replacing?
 What are your primary focus areas for inclusive language?
