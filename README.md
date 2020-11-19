@@ -41,4 +41,4 @@ Provided below is the list of terms that have been identified as promoting racia
 
 <a name="out"></a>
 ## **What areas are you focusing on for inclusion**
-The initial scope of this initiative is IT terminology that promotes racial and cultural bias. We will expand on this scope in the futire to address additional diversity scope. 
+The initial scope of this initiative is IT terminology that promotes racial and cultural bias. We will expand on this scope in the futire to address additional areas of diversity
