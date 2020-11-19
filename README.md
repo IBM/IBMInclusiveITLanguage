@@ -36,4 +36,4 @@ The initial scope of this initiative is to address IT terminology that promotes 
 ## **What terms is IBM replacing?**
 
 <a name="out"></a>
-## **What areas are you focusing on for inclusion*
+## **What areas are you focusing on for inclusion**
