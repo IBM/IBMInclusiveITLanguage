@@ -2,11 +2,26 @@
 IBM’s contribution to Open Source and other Industry efforts to make IT language more inclusive
 
 ## **Table of Contents**
-What IT Scope does this initiative cover?
-What Terms is IBM Replacing?
-What are your primary focus areas for inclusive language?
-What is Open Sentencing?
 
+  - [**Table of Contents**](#table-of-contents)
+  - [**What IT scope does this initiatuve cover?**](#IT includes and excludes what?)
+  - [**What Terms is IBM replacing?**](#Terms to avoid in IBM IT )
+  - [**What areas are you focusing on for inclusion**](#ideasolution)
+ - [**Users and Skills**](#users-and-skills)
+  - [**Browser Support**](#browser-support)
+  - [**Architecture Diagram**](#architecture-diagram)
+  - [**Technical Materials**](#technical-materials)
+  - [**Data Sources**](#data-sources)
+  - [**Future Implementations/Ideas**](#future-implementationsideas)
+  - [**Help Wanted!**](#help-wanted)
+    - [**Partners**](#partners)
+    - [**Research and Data Gathering**](#research-and-data-gathering)
+    - [**UI improvements**](#ui-improvements)
+    - [**Aggregator and Report Generator improvements**](#aggregator-and-report-generator-improvements)
+    - [**Overall code improvements**](#overall-code-improvements)
+  - [**References**](#references)
+      - [**Team Members**](#team-members)
+  - [**License**](#license)
 People in the Black Community are faced with harsher downstream effects (charged at higher rates, assigned more significant charges, convicted at higher rates, given longer sentences, and denied parole more often) than people of other races for similar offenses. This systemic bias in the justice system has a profound and lasting impact on black families, communities and the country. The Open Sentencing solution starter helps expose bias and empowers public defenders to address racial disparities in the judicial system directly. Our solution includes an engaging user interface (UI) that feeds into our pre-trained Bias & Disparity Detection Engine. This innovative engine analyzes fact patterns and rapidly provides statistical analysis that highlights deviations from guidelines by race throughout an accused person's judiciary process. The reports from Open Sentencing solution starter provides clear insights for the public defender to aid in defending against detected bias, ultimately & ideally fairly reducing incarceration for members of the black community.
 
 We created a tool with the goal of reducing sentencing for people impacted by bias and racism.
