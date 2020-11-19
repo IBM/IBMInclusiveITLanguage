@@ -5,22 +5,6 @@ IBM’s contribution to Open Source and other Industry efforts to make IT langua
 What IT Scope does this initiative cover?
 What Terms is IBM Replacing?
 What are your primary focus areas for inclusive language?
-Idea/Solution
-Users and Skills
-Browser Support
-Architecture Diagram
-Technical Materials
-Data Sources
-Future Implementations/Ideas
-Help Wanted!
-Partners
-Research and Data Gathering
-UI improvements
-Aggregator and Report Generator improvements
-Overall code improvements
-References
-Team Members
-License
 What is Open Sentencing?
 
 People in the Black Community are faced with harsher downstream effects (charged at higher rates, assigned more significant charges, convicted at higher rates, given longer sentences, and denied parole more often) than people of other races for similar offenses. This systemic bias in the justice system has a profound and lasting impact on black families, communities and the country. The Open Sentencing solution starter helps expose bias and empowers public defenders to address racial disparities in the judicial system directly. Our solution includes an engaging user interface (UI) that feeds into our pre-trained Bias & Disparity Detection Engine. This innovative engine analyzes fact patterns and rapidly provides statistical analysis that highlights deviations from guidelines by race throughout an accused person's judiciary process. The reports from Open Sentencing solution starter provides clear insights for the public defender to aid in defending against detected bias, ultimately & ideally fairly reducing incarceration for members of the black community.
