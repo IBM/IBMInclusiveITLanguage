@@ -25,3 +25,7 @@ IBM’s contribution to Open Source and other Industry efforts to make IT langua
 
 
 [#IT-includes-and-excludes]
+
+
+<a name="out"></a>
+## **What IT Scope does this inititaive Include?**
