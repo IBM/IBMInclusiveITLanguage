@@ -15,7 +15,7 @@ IBM’s contribution to Open Source and other Industry efforts to make IT langua
 
 <a name="out"></a>
 ## **What IT Scope does this inititaive cover?**
-The initial scope of this initiative is to address IT terminology that promotes racial and cultural bias. We will collaborate with the Global Diversity & Inclusion team to determine how best to address other types of bias in language.
+
 
 
 <a name="out"></a>
@@ -39,3 +39,4 @@ Provided below is the list of terms that have been identified as promoting racia
 
 <a name="out"></a>
 ## **What areas are you focusing on for inclusion**
+The initial scope of this initiative is IT terminology that promotes racial and cultural bias. We will expand on this scope in the futire to address additional diversity scope. 
