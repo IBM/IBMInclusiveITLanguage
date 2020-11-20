@@ -3,9 +3,8 @@ IBM’s contribution to Open Source and other Industry efforts to make IT langua
 
 ## **Table of Contents**
 
-  - [**Table of Contents**](#table-of-contents)  
-  - [**What IT scope does this initiative cover**][#IT-includes-and-excludes]
-  - [**What Terms is IBM replacing**]
+  - [**What IT scope does this initiative cover**](#what-it-scope-does-this-initiative-cover)
+  - [**What Terms is IBM replacing**](#what-terms-is-ibm-replacing)
   - [**What areas are you focusing on for inclusion**](#types-of-discriminatory-terms)
       - [**Team Members**](#team-members)
   - [**License**](#license)
@@ -14,6 +13,7 @@ IBM’s contribution to Open Source and other Industry efforts to make IT langua
 
 
 <a name="out"></a>
+
 ## **What IT scope does this inititaive cover?**
 This initiative covers the following areas of IT: 
 code used in software and hardware and associated documentation,manuals, support guides, 
