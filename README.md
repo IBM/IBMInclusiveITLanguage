@@ -14,7 +14,7 @@ IBM’s contribution to Open Source and other Industry efforts to make IT langua
 
 <a name="out"></a>
 
-## **What IT scope does this inititaive cover?**
+## **What IT scope does this initiative cover?**
 This initiative covers the following areas of IT: 
 code used in software and hardware and associated documentation,manuals, support guides, 
 digital content describing IT products, hardware labels, and education. 
