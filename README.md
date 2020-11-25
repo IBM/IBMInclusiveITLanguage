@@ -6,7 +6,7 @@ IBM’s contribution to Open Source and other Industry efforts to make IT langua
   - [**What IT scope does this initiative cover**](#what-it-scope-does-this-initiative-cover)
   - [**What Terms is IBM replacing**](#what-terms-is-ibm-replacing)
   - [**What areas are you focusing on for inclusion**](#types-of-discriminatory-terms)
-  - [**Terminology matters: some Qs and As**] (#terminology-matters:-some-Qs-and-As)
+  - [**Terminology matters: some Qs and As**](#terminology-matters:-some-Qs-and-As)
       - [**Team Members**](#team-members)
   - [**License**](#license)
 
