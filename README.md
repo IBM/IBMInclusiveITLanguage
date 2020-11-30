@@ -40,7 +40,7 @@ Provided below is the list of terms that have been identified as promoting racia
 
 <a name="out"></a>
 ## **What areas are you focusing on for inclusion?**
-The initial scope of this initiative is IT terminology that promotes racial and cultural bias. We will expand on this scope in the futire to address additional areas of diversity
+The initial scope of this initiative is IT terminology that promotes racial and cultural bias. We will expand on this scope in the future to address non inclusive IT terms in other areas of diversity.
 
 <a name="out"></a>
 ## **Terminology matters: some Qs and As**
@@ -58,7 +58,7 @@ Using a controlled vocabulary increases the clarity and accuracy of content and 
 
  
 ## **How will it make a difference if we change a few words and the rest of the world keeps on using biased terminology?**
-We are not alone in making these changes. IBM, Google, Microsoft, Drupal, Twitter, and many other tech companies are also replacing racially biased terms in their content. Standards organizations like the IEEE are participating to make these replacement terms the standard for the IT industry.
+We are not alone in making these changes. Many other tech companies are also replacing racially biased terms in their content. Standards organizations like the IEEE are participating to make these replacement terms the standard for the IT industry.
  
 ## **Why are we taking time away from our actual work to change a few words?**
 Communicating effectively and cohesively is the work of all developers and content creators. The words we use must reflect our values and create an environment where everyone can feel included and safe. Arvind Krishna asked IBMers to take the Emb(race) pledge. One of the statements in this pledge is "I pledge to demonstrate equality through action." By ensuring that we use words that are free of racial and cultural bias, we take that action to demonstrate equality.
@@ -67,7 +67,7 @@ Communicating effectively and cohesively is the work of all developers and conte
 Language changes constantly. The language of Chaucer and Shakespeare is notably different from the language of today. The meaning of words shifts from century to century and even from decade to decade. The word "meat" used to mean any food. "Nice" once meant foolish while "silly" meant worthy. More recently, words like "sick" and "ghost" have taken on new meanings. Word choices reflect social change as well. The word "mankind" has been gradually falling out of use, and the once-common word "workman" has largely been replaced by "worker".  Our world changes constantly and we change along with it. Language, as the tool we use to express ourselves, has to change along with us in order to serve our needs. 
  
 ## **How far will this go?**
-These changes are being made thoughtfully after consultation with diverse people and subject matter experts. Only those terms that are offensive and perpetuate bias are being addressed.  For example, "master" when used in conjunction with slave has been changed. However, the terms "master inventor", "golden master", and "mastermind" continue to be fine to use. To suggest that the effort will continue into absurdity is harmful and offensive in itself. It is dismissive of the effort and can even become a form of harassment. 
+These changes are being made thoughtfully after consultation with diverse people and subject matter experts. Only those terms that are offensive and perpetuate bias are being addressed.  For example, "master" when used in conjunction with slave has been changed. However, the terms "master inventor", "golden master", and "mastermind" continue to be fine to use. 
 
 ## **In IBM, do changes apply to new content and products only or also to existing products and content?**
 We issue the following advice:
