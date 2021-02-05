@@ -38,7 +38,10 @@ Provided below is the list of terms that have been identified as promoting racia
 |Chinese wall|Use "ethical wall" or "firewall"|This term is outdated and might be perceived as culturally insensitive or offensive because it inappropriately refers to ethnicity.|
 |man hour, man day|Use "person hour" and "person day"|These terms use "man" to represent all workers. This is biased language that excludes women.|
 
+
+
 <a name="out"></a>
+
 ## **What areas are you focusing on for inclusion?**
 The initial scope of this initiative is IT terminology that promotes racial and cultural bias. We will expand on this scope in the future to address non inclusive IT terms in other areas of diversity.
 
@@ -79,6 +82,28 @@ Examples:
 ## **How is IBM referring to prohibited terms that have not yet been removed from product code and UIs, and/or prohibited terms in technologies that are not owned by IBM?**
 We use the following statement in affected content:
 -	While IBM values the use of inclusive language, terms that are outside of IBM's direct influence are sometimes required for the sake of maintaining user understanding. As other industry leaders join IBM in embracing the use of inclusive language, IBM will continue to update the documentation to reflect those changes.
+
+<a name="out"></a>
+## **What terms have you reviewed that have no change recommended?**
+|Term|Disposition|Rationale|
+|----|----|----|
+|black box|No change recommended|"Black box" refers to opacity, such as details that aren't visible or are not the focus. This term is not based on a good/bad binary and so does not fall under our guiding principle for black and white terms (see "blacklist").|
+|blackout|No change recommende|This term is not based on a good/bad binary and so does not fall under our guiding principle for black and white terms (see "blacklist").|
+|dark mode/light mode|No change recommended|This term is not based on a good/bad binary and so does not fall under our guiding principle for black and white terms (see "blacklist").|
+|fair hiring practice|No change recommended|This term is not biased because it's easy to distinguish "fair" in the sense of unbiased from "fair" in the sense of light-skinned in context.|
+|fellow|No change recommended|Fellow refers to the most senior rank or title one can achieve on a technical career in certain companies or a member of a learned society, such a college. A fellow can be male or female. This term does not promote gender bias.|
+|gold master/golden master|No change recommended|There is no dominant/subordinate relationship implied. No issue or problem with using the term.|
+|grandfather|No change recommended|The history of this term is obscure and as such doesn't make this an offensive term.|
+|mastermind|No change recommended|This term does not fall under the criteria for replacing the term "master". It refers to a level of skill rather than a dominate/subordinate relationship.|
+|parent/child|No change recommended|Although the relationship of parent and child is one of dependency, it is appropriate. Parents do have legal rights over children until a certain age so it is a natural dependency relationship. Children falling victim to adult power is not the main result of this relationship, so this term does not represent an abuse of power typically.	
+POC (proof of concept)|No change recommended|This is a general business term that originates outside of IT. The context is widely known and is key here. This is not likely to be confused with "person of colour". It's common and acceptable for acronyms and abbreviations to have multiple full forms.|
+|religiously (meaning with discipline but also potentially offending to atheists)|No change recommended|This term is not considered offensive.|
+|white box|No change recommended|There is no need to change white box because black box refers to opacity, such as details that aren't visible or are not the focus.. It is not based on a good/bad binary and so does not fall under our guiding principle for black and white terms.|
+|white card|No change recommended|This term is not based on a good/bad binary and so does not fall under our guiding principle for black and white terms (see "blacklist").|
+|white glove|No change recommended|This term is not based on a good/bad binary and so does not fall under our guiding principle for black and white terms (see "blacklist").|
+|white label|No change recommended|The guiding principle on black and white terms does not apply (see entry for "blacklist").|
+|white paper|No change recommended|This was reviewed and found to be out of the scope of the review board because it is not an IT term. It is used by governments and other industries. Furthermore, the guiding principle on black and white terms does not apply (see entry for "blacklist").|
+|white space|No change recommended|This term is not based on a good/bad binary and so does not fall under our guiding principle for black and white terms (see "blacklist").|
 
 
 
