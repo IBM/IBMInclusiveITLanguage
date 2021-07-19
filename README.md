@@ -41,6 +41,9 @@ slave|Use the appropriate replacement for your domain, such as "worker", "child"
 |man hour, man day|Use "person hour",  "person day" “full-time equivalent (FTE) day”, or “full-time equivalent (FTE) hour|A unit of work that can be completed by an average worker in the specified time period.|These terms use "man" to represent all workers, which is biased and exclusionary.|
 |segregation|Use "separation" or "segmentation"||This term refers to a process that violates human rights by limiting access to privileges and rights such as education and voting.|
 
+## **What action is required for IBM Business Partners and Intellectual Property Partners (IPPs)?**
+IBM Business Partners and Intellectual Property Partners (IPPs) are not contractually required to remove biased terminology. However, IBM encourages our partners to review their terminology on a voluntary basis to ensure that the language used in products and content supports racial and cultural inclusivity. Many organizations across the IT industry are engaging in this important movement to replace biased terminology.
+
 
 ## **Terminology matters: some Qs and As**
 
