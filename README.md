@@ -40,6 +40,9 @@ slave|Use the appropriate replacement for your domain, such as "worker", "child"
 |Chinese wall|Use "ethical wall" or "firewall"|An information barrier that prevents exchanges or communication that could lead to conflicts of interest.|This term, when used to describe an information barrier between parties, is outdated and might be perceived as culturally insensitive or offensive because it inappropriately refers to ethnicity.|
 |man hour, man day|Use "person hour",  "person day" “full-time equivalent (FTE) day”, or “full-time equivalent (FTE) hour|A unit of work that can be completed by an average worker in the specified time period.|These terms use "man" to represent all workers, which is biased and exclusionary.|
 |segregation|Use "separation" or "segmentation"||This term refers to a process that violates human rights by limiting access to privileges and rights such as education and voting.|
+|pow wow|Use "meeting" or "brainstorming session"||A pow wow is a sacred gathering in Indigenous communities and should not be used as a business term. Use meeting, brainstorming session, or other appropriate word.|
+|totem pole|Use "hierarchy" or "rank"||Do not use in phrases such as "bottom of the totem pole" or "low man on the totem pole". A totem pole is a sacred object in Indigenous communities and the bottom of the totem pole has a specific symbolic meaning.|
+|sanity test|Use "test"||This term might be derogatory to neurodiverse people. Jargon, such as "sanity test", is difficult to translate and is difficult to understand by readers whose first language is not English.|
 
 ## **What action is required for IBM Business Partners and Intellectual Property Partners (IPPs)?**
 IBM Business Partners and Intellectual Property Partners (IPPs) are not contractually required to remove biased terminology. However, IBM encourages our partners to review their terminology on a voluntary basis to ensure that the language used in products and content supports racial and cultural inclusivity. Many organizations across the IT industry are engaging in this important movement to replace biased terminology.
@@ -90,6 +93,10 @@ While IBM values the use of inclusive language, terms that are outside of IBM's 
 
 To help determine which terms might reinforce bias, we have developed the following guiding principles:
 
+  - Avoid terms that reinforce systemic discrimination in which a dominant group prevents or inhibits the full 
+social, economic, and political participation of people based on their identity. This applies to terms that 
+reflect systemic racism, as well as discrimination by sex, gender, ability, orientation, or any identity-based 
+discrimination.
  - When the terms ‘white’ or ‘black’ are used in the context where white   is represented as good or black is represented as bad, this usage   reinforces a model that promotes racial bias.
  - The use of "master" with the term "slave" in an IT context diminishes   the dehumanizing practice of slavery.
  - Terms that use color names should be approached with caution to make sure that the colors don't refer to people directly or
